@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clock Dream</string>
+    <string name="full_charged">Fully charged!</string>
+    <string name="thank_you">Thank you for using Clock Dream</string>
+    <string name="support">For any feedback, mail us at support@aztechcorps.com</string>
+    <string name="rate_us">Wouldn\'t hurt to rate us 5 Stars, IF you like the app :)</string>
+    <string name="open_settings">Open display settings</string>
+    <string name="interactive_desc">If you make it interactive, then you can tap on the screen without stopping the dream</string>
+    <string name="interactive_title">Make it interactive</string>
+    <string name="clock_desc">You can switch between 24hr or 12hr format</string>
+    <string name="clock_title">Enable 24hr format</string>
+    <string name="battery_desc">You can turn off battery indicator, if you want to conserve more power</string>
+    <string name="battery_title">Hide battery indicator</string>
+
+    <string name="divider">&#160;&#160;•&#160;</string>
+</resources>
